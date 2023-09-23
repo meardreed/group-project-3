@@ -1,5 +1,5 @@
-# Group-Project-3
-Group-Project-3 for data vidualization challenge of modules 16 and 17 of Datavis bootcamp
+## The Great Resignation
+Group-Project-3 for data visualization challenge of modules 16 and 17 of Datavis bootcamp
 
 ## Project Team
 Max Young, Meardreed Vilmeus, Nancy Santiago, Priya Jain, Soo Bin Im
@@ -17,7 +17,7 @@ The Great Resignation: Labor Statistics & Employment Findings for Industries & W
   - Annual Quit Rates for Top 5 Industries During Covid-19: Bar Chart
   - Total Quit Rates by Industry During and After Recession: Bar Chart 
   
-This interative dashboard explores the ["Bureau of Labor Statictics" dataset](https://www.bls.gov/). This dashboard contains charts to visualize BLS data that will allows us to better understand labor trends caused by major events such as the Covid-19 pendemic and the 2008 recession. 
+This interactive dashboard explores the ["Bureau of Labor Statictics" dataset](https://www.bls.gov/). This dashboard contains charts to visualize BLS data that will allow us to better understand labor trends caused by major events such as the Covid-19 pandemic and the 2008 recession. 
 
 ## Built with
 - Flask API
